@@ -1,0 +1,8 @@
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\bin\Debug\ConsoleLife.exe.config
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\bin\Debug\ConsoleLife.exe
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\bin\Debug\ConsoleLife.pdb
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\obj\Debug\ConsoleLife.csproj.AssemblyReference.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\obj\Debug\ConsoleLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\obj\Debug\ConsoleLife.csproj.CoreCompileInputs.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\obj\Debug\ConsoleLife.exe
+C:\Users\Mirek\Desktop\Programing C#\C#\GameOfLife\ConsoleLife\obj\Debug\ConsoleLife.pdb
